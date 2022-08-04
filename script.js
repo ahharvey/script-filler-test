@@ -37,7 +37,7 @@ function list() {
     var result = { 'items': [] }
     
     // the csv file 
-    var file = "list.csv";
+    var file = "~/Code/script-filler-test/list.csv";
 
     // read the csv file
     // TODO this line raises an error in Alfred debugger
